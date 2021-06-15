@@ -10,5 +10,20 @@ EditorBuildSettings:
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/Start Screen.unity
-    guid: fa16e044bd5d840cd9d1f658c8428abc
+    guid: 145665550bed741ee82776f1fbe2b0cd
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: cbed5eaa92edb4194a6c8946e4580933
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: b09a58736c0b74e6e820de9823f7f818
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: ad8d48a7bc59843418e6e3c457ca0d28
+  - enabled: 1
+    path: Assets/Scenes/Options Screen.unity
+    guid: e49de39f4d8db4911875b896cc4b3a33
+  - enabled: 1
+    path: Assets/Scenes/Lose Screen.unity
+    guid: a0ae3268e244e4c8aa4a28cf7d53c06e
   m_configObjects: {}
